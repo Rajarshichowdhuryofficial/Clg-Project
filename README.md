@@ -1,5 +1,5 @@
 # Clg-Project
-Cozastore Skincare website
+Cozastore Facial website
 
 # 🚀 Project Title: Cozastore Facial Website
 
